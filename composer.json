@@ -1,0 +1,21 @@
+{
+    "name": "nemo9l/uwuify",
+    "description": "String uwuifying library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/nemo9l/uwuify-php",
+    "authors": [
+        {
+            "name": "Ji Yong, Kim",
+            "email": "nemo@qroffle.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nemo9l\\Uwuify\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
